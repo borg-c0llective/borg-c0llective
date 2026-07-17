@@ -4,6 +4,7 @@
 <p>I love Star Trek; it's my favorite fandom ever. I also like Stargate, Babylon 5, Transformers, MacGyver, and among other things.</p>
 <p>I mostly write & do art.</p>
 <p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbes off.</p>
+<img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
 <details><summary>Favorite Ships</summary>
   <div align="center">
     Current Favorite: ${\textsf{\color{#ffffff}Whatever the Voyager crew has going on with each other}}$<br>
@@ -24,7 +25,6 @@
     <div>I really mostly ship anything and everything, so I suppose there's too many to list here :).</div>
   </div>
 </details>
-<div>winamp widget</div>
 <details><summary>Favorite Characters</summary>
   <div align="center">
     ${\textsf{\color{#E92E49}William Riker}}$<br>
@@ -48,7 +48,6 @@
     ${\textsf{\color{#ff5c28}Tom Paris}}$<br>
   </div>
 </details>
-<img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
 <details><summary>Blinkie Hoard (Stargate and MacGyver ones are made by me)</summary>
         <img alt="AUTOBOT" src="https://github.com/user-attachments/assets/84760ab3-fb62-4ffb-8b86-8fe2f9dfafdd">
         <img alt="robotInDisguise" src="https://github.com/user-attachments/assets/7cd6e8f5-f6e5-49ae-86c8-8ce8272ae2c5">
@@ -105,5 +104,5 @@
         <img alt="Wormhole X-treme!" src="https://64.media.tumblr.com/a59e11e106cbf272e51361350164bf21/8364491d6bbe1b1d-da/s100x200/7c5a123d45c8273099c936ab5c9ac73ba21c9491.gifv">
 </details>
 <p>If you want to contact me, please do so on <a href="https://tumblr.com/rikercard">Tumblr</a>.</p>
-<code>Cool music widget is made with Winamp!</code>
+<img alt="paper-moon" src="https://64.media.tumblr.com/b9021dafc5da45b682fa8eb63fa63034/25588328699e14d0-b4/s250x400/c1ca6028b6137915407c353107c235e318e9a674.gifv">
 </div>
