@@ -7,7 +7,7 @@
 <img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
 <details><summary>Favorite Ships</summary>
   <div align="center">
-    Current Favorite: ${\textsf{\color{#ffffff}Whatever the Voyager crew has going on with each other}}$<br>
+    Current Favorite: Whatever the Voyager crew has going on with each other<br>
     OTP: ${\textsf{\color{#85fffc}Jack/Daniel}}$ - whiskeyshipping!<br>
     OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
     OT4: ${\textsf{\color{#ffcd5e}SG1cule}}$<br>
