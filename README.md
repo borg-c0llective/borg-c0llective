@@ -3,15 +3,15 @@
 <h2>Welcome to Commander Riker's GitHub</h2>
 <p>I love Star Trek; it's my favorite fandom ever. I also like Stargate, Babylon 5, Transformers, MacGyver, and among other things.</p>
 <p>I mostly write & do art.</p>
-<p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbes off.</p>
+<p>I have cPTSD, which is a little rough.</p>
+<p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbles off.</p>
 <img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
 <details><summary>Favorite Ships</summary>
   <div align="center">
-    Current Favorite: Whatever the Voyager crew has going on with each other<br>
+    Current Favorite: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
     OTP: ${\textsf{\color{#85fffc}Jack/Daniel}}$ - whiskeyshipping!<br>
     OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
     OT4: ${\textsf{\color{#ffcd5e}SG1cule}}$<br>
-    ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
     ${\textsf{\color{#F9B448}Kirk/Spock}}$<br>
     ${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"><br>
     ${\textsf{\color{#F8CD4F}DaForge}}$<br>
@@ -22,6 +22,7 @@
     ${\textsf{\color{#831d5a}Archepol}}$<br>
     ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
     ${\textsf{\color{#F033AB}J7}}$<br>
+    ${\textsf{\color{#708090}Voyager Crew/Voyager Crew}}$<br>
     <div>I really mostly ship anything and everything, so I suppose there's too many to list here :).</div>
   </div>
 </details>
