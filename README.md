@@ -4,7 +4,7 @@
 <p>I love Star Trek, it's my favorite fandom ever. I also like Stargate, Babylon 5, Transformers, MacGyver, and among other things.</p>
 <p>I mostly write & do art.</p>
 <p>I have cPTSD, which is a little rough.</p>
-<p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbles off.</p>
+<p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbles off. Note: PonyTown idiots censured my socials. Yes, I am sitting next to <strong>t1g3rcl4w</strong></p>
 <img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
 <details><summary>Favorite Ships</summary>
   <div align="center">
