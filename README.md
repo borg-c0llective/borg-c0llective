@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="Galaxy-class" src="https://64.media.tumblr.com/27c0ff8187d3d62bfd8b4f79c2bc5468/1448b31dbe408908-20/s400x600/bc96d3e3e42b4ddd412e9b4a7d1388c13df8f438.gifv">
 <h2>Welcome to Commander Riker's GitHub</h2>
-<p>I love Star Trek, it's my favorite fandom ever. I also like Stargate, Babylon 5, Transformers, MacGyver, and among other things.</p>
+<p>I love Star Trek, it's my favorite fandom ever. I also like Stargate, Babylon 5, Battlestar Galactica, Big Bang Theory, Transformers, MacGyver, and among other things.</p>
 <p>I mostly write & do art.</p>
 <p>I have cPTSD, which is a little rough.</p>
 <p>If you're reading this from PonyTown, hello! C+H is fine. Please whisper to me if you want to interact because I most likely have chat bubbles off. Note: PonyTown idiots censured my socials. Yes, I am sitting next to <strong>t1g3rcl4w</strong></p>
