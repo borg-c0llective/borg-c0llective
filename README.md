@@ -103,8 +103,13 @@
         <img alt="winamp" src="https://64.media.tumblr.com/33707b9c4085e2e8bbe52c75ed97555a/25588328699e14d0-43/s250x400/cf0e09377349911c206590991f196148afcbfef9.gifv">
         <br>
         <img alt="Wormhole X-treme!" src="https://64.media.tumblr.com/a59e11e106cbf272e51361350164bf21/8364491d6bbe1b1d-da/s100x200/7c5a123d45c8273099c936ab5c9ac73ba21c9491.gifv">
-</details>
+</details><br>
 <p>If you want to contact me, please do so on <a href="https://tumblr.com/rikercard">Tumblr</a>.</p>
 <img alt="Borg" src="https://64.media.tumblr.com/bd36f22a6d225627d397ea68b478b7ee/25588328699e14d0-d9/s500x750/57c4b19d6643f69e4842ba91fdae9c28b38b5d4b.gifv">
+<details><summary>DNI</summary>
+  <div align="center">
+    this should go without saying and i usually hate dnis but if you generalize any group of people (INCLUDING white people, americans, trans men, men, etc) kindly do not engage with me. also if you take the <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">fictional government from star trek</a> too seriously in a negative way and call them colonists DNI and i want you to do a readup on history because clearly you do not know what colonization nor imperialism is.
+  </div>
+</details>
 <!--<img alt="paper-moon" src="https://64.media.tumblr.com/b9021dafc5da45b682fa8eb63fa63034/25588328699e14d0-b4/s250x400/c1ca6028b6137915407c353107c235e318e9a674.gifv">-->
 </div>
